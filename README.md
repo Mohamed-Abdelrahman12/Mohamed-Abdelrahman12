@@ -35,10 +35,16 @@ Focused on building scalable backend systems using **C# & ASP.NET Core**
        alt="Instagram" width="42" height="42"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:mohamed.abd3lrahman@gmail.com">
+<a href="mailto:mohamed.abd3lrahman@gmail.com" target="_blank">
   <img src="https://www.svgrepo.com/show/349378/gmail.svg"
        alt="Email" width="42" height="42"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://mohamedabdelrahman.netlify.app/" target="_blank">
+  <img src="https://github.com/Mohamed-Abdelrahman12/Mohamed-Abdelrahman12/blob/main/Portfolio%20Icon.png?raw=true"
+       alt="Portfolio" width="42" height="42"/>
+</a>
+
 
 
 </p>
@@ -86,6 +92,21 @@ Focused on building scalable backend systems using **C# & ASP.NET Core**
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="48" height="48"/>
 </a>&nbsp;&nbsp;&nbsp;
 
+
+<!-- EF Core -->
+<a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank">
+  <img src="https://github.com/Mohamed-Abdelrahman12/Mohamed-Abdelrahman12/blob/main/EFCore%20Icon.webp?raw=true"
+       alt="EF Core" width="48" height="48"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<!-- LINQ -->
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/" target="_blank">
+  <img src="https://github.com/Mohamed-Abdelrahman12/Mohamed-Abdelrahman12/blob/main/LINQ%20Icon.png?raw=true"
+       alt="LINQ" width="48" height="48"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+
+
 <!-- Database -->
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="48" height="48"/>
@@ -102,9 +123,9 @@ Focused on building scalable backend systems using **C# & ASP.NET Core**
 </a>
 
 </p>
- 
 
 ---
+
 
 ## 🎯 Current Focus
 - Advanced ASP.NET Core Backend Development  
