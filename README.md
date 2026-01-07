@@ -1,54 +1,108 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br> 
+<div align="center">
 
-<h2>Mohamed Abdelrahman</h2>
+<!-- Animated Typing Intro -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Mohamed+Abdelrahman;.NET+Backend+Developer;ASP.NET+Core+Specialist;Building+Scalable+Backend+Systems" alt="Typing Intro"/>
+
+</div>
+
 <h4>.NET Backend Developer</h4>
 
 Computer Science Graduate — Beni Suef University  
 Focused on building scalable backend systems using **C# & ASP.NET Core**
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange)
-
 </div>
 
 ---
 
-## 🚀 Tech Stack
+<h3 align="left">Connect with me</h3>
 
-### 🧠 Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<p align="center">
+
+<a href="https://www.linkedin.com/in/mohamed-abdelrahman15" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+       alt="LinkedIn" width="42" height="42"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.facebook.com/share/1Dgh1RFviG/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+       alt="Facebook" width="42" height="42"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://instagram.com/mo7__abdelrahman" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+       alt="Instagram" width="42" height="42"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:mohamed.abd3lrahman@gmail.com">
+  <img src="https://www.svgrepo.com/show/349378/gmail.svg"
+       alt="Email" width="42" height="42"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+</p>
+
+
 
 ---
 
-### ⚙️ .NET & Backend
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat)
-![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![REST API](https://img.shields.io/badge/RESTful%20API-02569B?style=flat)
+<h3 align="left">🧠 Languages and Tools:</h3>
+<p align="center">
 
-- ASP.NET Core MVC  
-- Dependency Injection  
-- Validation  
-- Authentication & Authorization  
-- Clean Architecture Principles  
+<!-- Programming Languages -->
+<a href="https://www.cprogramming.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48"/>
+</a>&nbsp;&nbsp;&nbsp;
 
----
+<a href="https://www.w3schools.com/cpp/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48"/>
+</a>&nbsp;&nbsp;&nbsp;
 
-### 🧰 Tools
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+<a href="https://www.w3schools.com/cs/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<!-- Web Technologies -->
+<a href="https://www.w3.org/html/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="48" height="48"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.w3schools.com/css/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="48" height="48"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://getbootstrap.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="48" height="48"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<!-- .NET Stack -->
+
+<a href="https://dotnet.microsoft.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="48" height="48"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<!-- Database -->
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="48" height="48"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<!-- Tools -->
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://restfulapi.net/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"
+       alt="REST API" width="48" height="48"/>
+</a>
+
+</p>
+ 
 
 ---
 
@@ -64,11 +118,3 @@ Computer Science Graduate — Beni Suef University
 Backend Developer specialized in **.NET & ASP.NET Core**  
 Always learning. Always building.
 
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" width="45%"/>
-
-</div>
