@@ -16,7 +16,7 @@ Focused on building scalable backend systems using **C# & ASP.NET Core**
 
 ---
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left">📫 Connect with me</h3>
 
 <p align="center">
 
